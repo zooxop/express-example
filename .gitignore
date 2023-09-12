@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,node
 
+### DB Connection information ###
+db/db.js
+
 ### macOS ###
 # General
 .DS_Store
